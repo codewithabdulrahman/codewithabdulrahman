@@ -1,4 +1,4 @@
-### Hi there, I'm Abdul Rahman [devlobb][website] 👋
+### Hi there, I'm [devlobb][website] 👋
 
 ## I'm a Husband and Developer!!
 
