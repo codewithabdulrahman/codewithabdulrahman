@@ -20,4 +20,4 @@
 [website]: https://www.upwork.com/freelancers/~01f4577b57a0cde81e
 [instagram]: https://www.instagram.com/_abdul5866
 [linkedin]: https://www.linkedin.com/in/devlobb/
-[wordpress]: https://profiles.wordpress.org/devlobb
+[website]: https://profiles.wordpress.org/devlobb
