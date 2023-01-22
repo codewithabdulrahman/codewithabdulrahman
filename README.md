@@ -1,4 +1,4 @@
-### Hi there, I'm [devlobb][website] 👋
+### Hi there, I'm Abdul Rahman 👋
 
 ## I'm a Full Stack Developer!!
 
