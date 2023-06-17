@@ -1,4 +1,4 @@
-### Hi there, I'm Abdul Rahman 👋
+### Hi there, I'm Abdul 👋
 
 ## I'm a Full Stack Developer!!
 
