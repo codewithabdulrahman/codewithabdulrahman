@@ -1,24 +1,34 @@
-### Hi there, I'm Abdul 👋
 
-## I'm a Full Stack Developer!!
+# Abdul Rahman - Full Stack Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 📫 If you interested send me an email on abdulrahman.connect@outlook.com
+## Introduction
+Welcome to the profile of Abdul Rahman, a versatile Full Stack Developer proficient in Laravel, Vue.js, CakePHP, WordPress core development, and CodeIgniter. This README offers insights into Abdul’s skills, experiences, and notable projects.
 
-### Connect with me:
-[<img align="left" alt="_abdul5866 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="devlobb | wordpress" width="22px" src="https://www.seekpng.com/png/small/831-8314952_download-logo-wordpress-svg-eps-png-psd-ai.png" />][wordpress]
-[<img align="left" alt="devlobb | grepper" width="22px" src="https://repository-images.githubusercontent.com/386788663/b30df306-a46d-465f-874e-dd7ff1942dbb" />][grepper]
-[<img align="left" alt="devlobb | laracast" width="22px" src="https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/whatcha-working-on.png" />][laracast]
+## About Abdul Rahman
+Abdul Rahman is a dedicated Full Stack Developer with extensive experience in crafting innovative web solutions using a variety of technologies. His expertise spans across both backend and frontend development, enabling him to create seamless and efficient applications.
 
-<br />
+## Skills
+- Backend:
+  - Laravel
+  - CakePHP
+  - CodeIgniter
+  - WordPress core development
+- Frontend:
+  - Vue.js
+  - HTML5, CSS3, JavaScript
+- Database:
+  - MySQL
+  - MongoDB (optional)
+- RESTful APIs
+- Version Control:
+  - Git
+- Agile methodologies
+## Experience
+Abdul Rahman brings X years of professional experience in full stack development, working on diverse projects ranging from small-scale applications to enterprise-level solutions. His ability to leverage multiple technologies enables him to deliver robust and scalable software products.
 
-</details>
+## Contact Information
+- Email: devlobb@gmail.com
+- LinkedIn: https://www.linkedin.com/in/codewithabdulrahman/
 
-[instagram]: https://www.instagram.com/_abdul5866
-[linkedin]: https://www.linkedin.com/in/devlobb/
-[wordpress]: https://profiles.wordpress.org/devlobb
-[grepper]:   https://www.codegrepper.com/profile/abdul-rahman-c2uz91hcmt47
-[laracast]:   https://laracasts.com/@devlob
+## Hire Abdul Rahman
+Abdul Rahman is available for freelance opportunities and new projects. Whether you need a Laravel expert, a Vue.js specialist, or a Full Stack Developer proficient in multiple technologies, Abdul is well-equipped to handle your requirements with professionalism and efficiency.
