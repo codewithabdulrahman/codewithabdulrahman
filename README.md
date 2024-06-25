@@ -15,6 +15,8 @@ Abdul Rahman is a dedicated Full Stack Developer with extensive experience in cr
   - WordPress core development
 - Frontend:
   - Vue.js
+  - Angular
+  - React.js
   - HTML5, CSS3, JavaScript
 - Database:
   - MySQL
