@@ -1,5 +1,5 @@
 
-# Software Engineer (React/Next.js, Vue.js, PHP/Laravel, Node.js, WP)
+# Software Engineer(React/Next.js, Vue.js, PHP/Laravel, Node.js, WP)
 
 I am a highly skilled Senior Backend Developer with over 9 years in the software development industry, specializing in PHP, Laravel, Symfony, Node.js, and WordPress. I have extensive experience in building scalable, efficient, and high-performance backend systems, with a strong focus on both custom development and WordPress-based solutions.
 
